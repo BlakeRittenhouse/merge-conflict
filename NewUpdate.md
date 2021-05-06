@@ -10,3 +10,9 @@ gender code
 		<option value="other">other</option>
 	</select>
 </div>
+todays date
+<div>
+	<label>Birthday:</label>
+	<input type="date" name="birthday">
+</div>
+
